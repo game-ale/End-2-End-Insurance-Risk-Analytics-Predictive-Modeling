@@ -85,3 +85,6 @@ This repository documents a comprehensive workflow for analyzing insurance portf
 - [Git LFS](https://git-lfs.github.com/)
 
 ---
+
+*Project by Gemechu Alemu, 2025*
+
