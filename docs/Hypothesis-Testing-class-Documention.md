@@ -171,7 +171,6 @@ print(full_output['reports']['gender_risk'])
 
 ---
 
-
 ## Strengths
 
 * **Modular**: Easily extendable to other grouping features.
